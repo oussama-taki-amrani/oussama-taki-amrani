@@ -6,7 +6,6 @@
 - 📫 How to reach me: send me an email in oussamatakiamrani01@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oussama-taki-amrani&theme=highcontrast&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-taki-amrani&langs_count=8&theme=highcontrast&show_icons=true&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-taki-amrani&layout=compact"/>
 
 <!--
@@ -14,5 +13,6 @@
 
 Here are some ideas to get you started:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-taki-amrani&langs_count=8&theme=highcontrast&show_icons=true&count_private=true)
 
 -->
