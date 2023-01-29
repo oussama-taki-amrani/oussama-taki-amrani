@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-taki-amrani&layout=compact&theme=highcontrast"/>
 
 
-## ✉️ Find me on:
+## ✉️ Connect with me:
 
 
 <p align="left">
