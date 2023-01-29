@@ -10,7 +10,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="45" style="vertical-align:top; margin:4px">
 <img src="https://github.com/jmnote/z-icons/blob/master/svg/r.svg" alt="R" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/jmnote/z-icons/blob/master/svg/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/jmnote/z-icons/blob/master/svg/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
