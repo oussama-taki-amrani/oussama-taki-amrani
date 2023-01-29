@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on AI related projects
 - 📫 How to reach me: send me an email in oussamatakiamrani01@gmail.com
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=oussama-taki-amrani&theme=highcontrast&show_icons=true&count_private=true)
 
 
 <!--
