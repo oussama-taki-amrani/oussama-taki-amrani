@@ -7,7 +7,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oussama-taki-amrani&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-taki-amrani&langs_count=8&theme=highcontrast&show_icons=true&count_private=true)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-taki-amrani&layout=compact"/>
 
 <!--
 **oussama-taki-amrani/oussama-taki-amrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
