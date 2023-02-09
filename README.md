@@ -5,6 +5,9 @@
 - 👯 I’m looking to collaborate on AI related projects
 - 📫 How to reach me: send me an email in oussamatakiamrani01@gmail.com
 
+
+              VISITOR COUNT
+
 ![Visitor Count](https://profile-counter.glitch.me/{oussama-taki-amrani}/count.svg)
 
 
