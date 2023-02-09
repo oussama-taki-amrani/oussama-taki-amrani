@@ -6,8 +6,7 @@
 - 📫 How to reach me: send me an email in oussamatakiamrani01@gmail.com
 
 
-              VISITOR COUNT
-
+VISITOR COUNT
 ![Visitor Count](https://profile-counter.glitch.me/{oussama-taki-amrani}/count.svg)
 
 
