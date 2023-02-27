@@ -8,8 +8,7 @@
 
 VISITOR COUNT  :      ![Visitor Count](https://profile-counter.glitch.me/{oussama-taki-amrani}/count.svg)
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=oussama-taki-amrani&theme=highcontrast&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oussama-taki-amrani&theme=highcontrast&show_icons=true&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-taki-amrani&layout=compact&theme=highcontrast"/>
 
 
